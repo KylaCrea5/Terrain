@@ -1,0 +1,14 @@
+C:\Users\fetut\OneDrive\Documents\Cnam\POO C#\Doc 1\Maison Ex\Maison Ex\Maison Ex\bin\Debug\netcoreapp3.1\Maison Ex.exe
+C:\Users\fetut\OneDrive\Documents\Cnam\POO C#\Doc 1\Maison Ex\Maison Ex\Maison Ex\bin\Debug\netcoreapp3.1\Maison Ex.deps.json
+C:\Users\fetut\OneDrive\Documents\Cnam\POO C#\Doc 1\Maison Ex\Maison Ex\Maison Ex\bin\Debug\netcoreapp3.1\Maison Ex.runtimeconfig.json
+C:\Users\fetut\OneDrive\Documents\Cnam\POO C#\Doc 1\Maison Ex\Maison Ex\Maison Ex\bin\Debug\netcoreapp3.1\Maison Ex.runtimeconfig.dev.json
+C:\Users\fetut\OneDrive\Documents\Cnam\POO C#\Doc 1\Maison Ex\Maison Ex\Maison Ex\bin\Debug\netcoreapp3.1\Maison Ex.dll
+C:\Users\fetut\OneDrive\Documents\Cnam\POO C#\Doc 1\Maison Ex\Maison Ex\Maison Ex\bin\Debug\netcoreapp3.1\Maison Ex.pdb
+C:\Users\fetut\OneDrive\Documents\Cnam\POO C#\Doc 1\Maison Ex\Maison Ex\Maison Ex\obj\Debug\netcoreapp3.1\Maison Ex.csproj.AssemblyReference.cache
+C:\Users\fetut\OneDrive\Documents\Cnam\POO C#\Doc 1\Maison Ex\Maison Ex\Maison Ex\obj\Debug\netcoreapp3.1\Maison Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fetut\OneDrive\Documents\Cnam\POO C#\Doc 1\Maison Ex\Maison Ex\Maison Ex\obj\Debug\netcoreapp3.1\Maison Ex.AssemblyInfoInputs.cache
+C:\Users\fetut\OneDrive\Documents\Cnam\POO C#\Doc 1\Maison Ex\Maison Ex\Maison Ex\obj\Debug\netcoreapp3.1\Maison Ex.AssemblyInfo.cs
+C:\Users\fetut\OneDrive\Documents\Cnam\POO C#\Doc 1\Maison Ex\Maison Ex\Maison Ex\obj\Debug\netcoreapp3.1\Maison Ex.csproj.CoreCompileInputs.cache
+C:\Users\fetut\OneDrive\Documents\Cnam\POO C#\Doc 1\Maison Ex\Maison Ex\Maison Ex\obj\Debug\netcoreapp3.1\Maison Ex.dll
+C:\Users\fetut\OneDrive\Documents\Cnam\POO C#\Doc 1\Maison Ex\Maison Ex\Maison Ex\obj\Debug\netcoreapp3.1\Maison Ex.pdb
+C:\Users\fetut\OneDrive\Documents\Cnam\POO C#\Doc 1\Maison Ex\Maison Ex\Maison Ex\obj\Debug\netcoreapp3.1\Maison Ex.genruntimeconfig.cache
